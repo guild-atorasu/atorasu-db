@@ -1,7 +1,7 @@
 {
   "adventurers": [
     {
-      "LICENSE_ID": 1,
+      "LICENSE_ID": "1",
       "NAME": "らい",
       "JOB": "錬金術師",
       "RANK": "F",
@@ -18,7 +18,7 @@
       "IDENTIFIER_TEXT": "1:らい"
     },
     {
-      "LICENSE_ID": 2,
+      "LICENSE_ID": "2",
       "NAME": "ユーク",
       "JOB": "荷物持ち",
       "RANK": "F",
@@ -35,7 +35,7 @@
       "IDENTIFIER_TEXT": "2:ユーク"
     },
     {
-      "LICENSE_ID": 3,
+      "LICENSE_ID": "3",
       "NAME": "マイマイマイ",
       "JOB": "召喚士",
       "RANK": "F",
@@ -52,7 +52,7 @@
       "IDENTIFIER_TEXT": "3:マイマイマイ"
     },
     {
-      "LICENSE_ID": 4,
+      "LICENSE_ID": "4",
       "NAME": "国産おかき",
       "JOB": "漁戦士",
       "RANK": "F",
@@ -69,7 +69,7 @@
       "IDENTIFIER_TEXT": "4:国産おかき"
     },
     {
-      "LICENSE_ID": 5,
+      "LICENSE_ID": "5",
       "NAME": "ブルージー",
       "JOB": "剣扇士",
       "RANK": "F",
@@ -86,7 +86,7 @@
       "IDENTIFIER_TEXT": "5:ブルージー"
     },
     {
-      "LICENSE_ID": 6,
+      "LICENSE_ID": "6",
       "NAME": "aina",
       "JOB": "魔法使い",
       "RANK": "F",
@@ -103,7 +103,7 @@
       "IDENTIFIER_TEXT": "6:aina"
     },
     {
-      "LICENSE_ID": 7,
+      "LICENSE_ID": "7",
       "NAME": "ユーラナス",
       "JOB": "魔法使い",
       "RANK": "F",
@@ -120,7 +120,7 @@
       "IDENTIFIER_TEXT": "7:ユーラナス"
     },
     {
-      "LICENSE_ID": 8,
+      "LICENSE_ID": "8",
       "NAME": "Neko-coll0sugXr",
       "JOB": "覇王",
       "RANK": "F",
@@ -137,7 +137,7 @@
       "IDENTIFIER_TEXT": "8:Neko-coll0sugXr"
     },
     {
-      "LICENSE_ID": 9,
+      "LICENSE_ID": "9",
       "NAME": "室町きりん",
       "JOB": "ソードマスター",
       "RANK": "F",
@@ -154,7 +154,7 @@
       "IDENTIFIER_TEXT": "9:室町きりん"
     },
     {
-      "LICENSE_ID": 10,
+      "LICENSE_ID": "10",
       "NAME": "Shoootanu",
       "JOB": "商人",
       "RANK": "E",
@@ -171,7 +171,7 @@
       "IDENTIFIER_TEXT": "10:Shoootanu"
     },
     {
-      "LICENSE_ID": 11,
+      "LICENSE_ID": "11",
       "NAME": "おもちマン",
       "JOB": "魔族剣士",
       "RANK": "F",
@@ -188,7 +188,7 @@
       "IDENTIFIER_TEXT": "11:おもちマン"
     },
     {
-      "LICENSE_ID": 12,
+      "LICENSE_ID": "12",
       "NAME": "無銘774",
       "JOB": "聖女",
       "RANK": "F",
@@ -205,7 +205,7 @@
       "IDENTIFIER_TEXT": "12:無銘774"
     },
     {
-      "LICENSE_ID": 13,
+      "LICENSE_ID": "13",
       "NAME": "夜月",
       "JOB": "傭兵",
       "RANK": "F",
@@ -222,7 +222,7 @@
       "IDENTIFIER_TEXT": "13:夜月"
     },
     {
-      "LICENSE_ID": 14,
+      "LICENSE_ID": "14",
       "NAME": "Fgiemon",
       "JOB": "探偵",
       "RANK": "F",
@@ -239,7 +239,7 @@
       "IDENTIFIER_TEXT": "14:Fgiemon"
     },
     {
-      "LICENSE_ID": 15,
+      "LICENSE_ID": "15",
       "NAME": "Sin鎌鼬",
       "JOB": "ギャンブラー",
       "RANK": "F",
@@ -256,7 +256,7 @@
       "IDENTIFIER_TEXT": "15:Sin鎌鼬"
     },
     {
-      "LICENSE_ID": 16,
+      "LICENSE_ID": "16",
       "NAME": "saku0204",
       "JOB": "剣士",
       "RANK": "F",
@@ -273,7 +273,7 @@
       "IDENTIFIER_TEXT": "16:saku0204"
     },
     {
-      "LICENSE_ID": 17,
+      "LICENSE_ID": "17",
       "NAME": "Kai",
       "JOB": "剣豪",
       "RANK": "F",
@@ -290,7 +290,7 @@
       "IDENTIFIER_TEXT": "17:Kai"
     },
     {
-      "LICENSE_ID": 18,
+      "LICENSE_ID": "18",
       "NAME": "ユジーン_Eugene",
       "JOB": "お供猫",
       "RANK": "F",
@@ -307,7 +307,7 @@
       "IDENTIFIER_TEXT": "18:ユジーン_Eugene"
     },
     {
-      "LICENSE_ID": 19,
+      "LICENSE_ID": "19",
       "NAME": "きうえちゃん",
       "JOB": "詐欺師",
       "RANK": "F",
@@ -324,7 +324,7 @@
       "IDENTIFIER_TEXT": "19:きうえちゃん"
     },
     {
-      "LICENSE_ID": 20,
+      "LICENSE_ID": "20",
       "NAME": "ヨモティー",
       "JOB": "魔王",
       "RANK": "F",
@@ -341,7 +341,7 @@
       "IDENTIFIER_TEXT": "20:ヨモティー"
     },
     {
-      "LICENSE_ID": 21,
+      "LICENSE_ID": "21",
       "NAME": "かみじ まなや",
       "JOB": "魔導士",
       "RANK": "F",
@@ -358,7 +358,7 @@
       "IDENTIFIER_TEXT": "21:かみじ まなや"
     },
     {
-      "LICENSE_ID": 22,
+      "LICENSE_ID": "22",
       "NAME": "ループさん",
       "JOB": "魔術士",
       "RANK": "F",
@@ -375,7 +375,7 @@
       "IDENTIFIER_TEXT": "22:ループさん"
     },
     {
-      "LICENSE_ID": 23,
+      "LICENSE_ID": "23",
       "NAME": "雪宮カンスケ",
       "JOB": "軍師",
       "RANK": "E",
@@ -392,7 +392,7 @@
       "IDENTIFIER_TEXT": "23:雪宮カンスケ"
     },
     {
-      "LICENSE_ID": 24,
+      "LICENSE_ID": "24",
       "NAME": "からぼし",
       "JOB": "闘士",
       "RANK": "F",
@@ -409,7 +409,7 @@
       "IDENTIFIER_TEXT": "24:からぼし"
     },
     {
-      "LICENSE_ID": 25,
+      "LICENSE_ID": "25",
       "NAME": "大魔王サタン",
       "JOB": "大魔王",
       "RANK": "F",
@@ -426,7 +426,7 @@
       "IDENTIFIER_TEXT": "25:大魔王サタン"
     },
     {
-      "LICENSE_ID": 26,
+      "LICENSE_ID": "26",
       "NAME": "アッシュ-Ash",
       "JOB": "竜騎士",
       "RANK": "F",
@@ -443,7 +443,7 @@
       "IDENTIFIER_TEXT": "26:アッシュ-Ash"
     },
     {
-      "LICENSE_ID": 27,
+      "LICENSE_ID": "27",
       "NAME": "なるみん",
       "JOB": "闇魔導士",
       "RANK": "F",
@@ -460,7 +460,7 @@
       "IDENTIFIER_TEXT": "27:なるみん"
     },
     {
-      "LICENSE_ID": 28,
+      "LICENSE_ID": "28",
       "NAME": "セナ",
       "JOB": "魔剣士",
       "RANK": "F",
@@ -477,7 +477,7 @@
       "IDENTIFIER_TEXT": "28:セナ"
     },
     {
-      "LICENSE_ID": 29,
+      "LICENSE_ID": "29",
       "NAME": "シライ",
       "JOB": "バーサクヒーラー",
       "RANK": "F",
@@ -494,7 +494,7 @@
       "IDENTIFIER_TEXT": "29:シライ"
     },
     {
-      "LICENSE_ID": 30,
+      "LICENSE_ID": "30",
       "NAME": "SYFubuki",
       "JOB": "nvidia職員",
       "RANK": "F",
@@ -511,7 +511,7 @@
       "IDENTIFIER_TEXT": "30:SYFubuki"
     },
     {
-      "LICENSE_ID": 31,
+      "LICENSE_ID": "31",
       "NAME": "basa-go",
       "JOB": "暴食族",
       "RANK": "F",
@@ -528,7 +528,7 @@
       "IDENTIFIER_TEXT": "31:basa-go"
     },
     {
-      "LICENSE_ID": 32,
+      "LICENSE_ID": "32",
       "NAME": "12",
       "JOB": "売人",
       "RANK": "F",
@@ -545,7 +545,7 @@
       "IDENTIFIER_TEXT": "32:12"
     },
     {
-      "LICENSE_ID": 33,
+      "LICENSE_ID": "33",
       "NAME": "coil",
       "JOB": "錬金術師",
       "RANK": "F",
@@ -562,7 +562,7 @@
       "IDENTIFIER_TEXT": "33:coil"
     },
     {
-      "LICENSE_ID": 34,
+      "LICENSE_ID": "34",
       "NAME": "グランマごとう",
       "JOB": "魔法使い見習い",
       "RANK": "F",
@@ -579,7 +579,7 @@
       "IDENTIFIER_TEXT": "34:グランマごとう"
     },
     {
-      "LICENSE_ID": 35,
+      "LICENSE_ID": "35",
       "NAME": "Kurueru",
       "JOB": "アヌビス",
       "RANK": "E",
@@ -596,7 +596,7 @@
       "IDENTIFIER_TEXT": "35:Kurueru"
     },
     {
-      "LICENSE_ID": 36,
+      "LICENSE_ID": "36",
       "NAME": "なみnori",
       "JOB": "見習い店員",
       "RANK": "F",
@@ -613,7 +613,7 @@
       "IDENTIFIER_TEXT": "36:なみnori"
     },
     {
-      "LICENSE_ID": 37,
+      "LICENSE_ID": "37",
       "NAME": "Yatasiro",
       "JOB": "まめひなた長",
       "RANK": "F",
@@ -630,7 +630,7 @@
       "IDENTIFIER_TEXT": "37:Yatasiro"
     },
     {
-      "LICENSE_ID": 38,
+      "LICENSE_ID": "38",
       "NAME": "miya0808",
       "JOB": "決闘者",
       "RANK": "F",
@@ -647,7 +647,7 @@
       "IDENTIFIER_TEXT": "38:miya0808"
     },
     {
-      "LICENSE_ID": 39,
+      "LICENSE_ID": "39",
       "NAME": "ひびーき",
       "JOB": "遊び人",
       "RANK": "F",
@@ -664,7 +664,7 @@
       "IDENTIFIER_TEXT": "39:ひびーき"
     },
     {
-      "LICENSE_ID": 40,
+      "LICENSE_ID": "40",
       "NAME": "奈良穂ルカ",
       "JOB": "ペンギン",
       "RANK": "F",
@@ -681,7 +681,7 @@
       "IDENTIFIER_TEXT": "40:奈良穂ルカ"
     },
     {
-      "LICENSE_ID": 41,
+      "LICENSE_ID": "41",
       "NAME": "ハバキリ",
       "JOB": "召喚士",
       "RANK": "F",
@@ -698,7 +698,7 @@
       "IDENTIFIER_TEXT": "41:ハバキリ"
     },
     {
-      "LICENSE_ID": 42,
+      "LICENSE_ID": "42",
       "NAME": "ラグナ",
       "JOB": "鑑定士",
       "RANK": "F",
@@ -715,7 +715,7 @@
       "IDENTIFIER_TEXT": "42:ラグナ"
     },
     {
-      "LICENSE_ID": 43,
+      "LICENSE_ID": "43",
       "NAME": "ニム",
       "JOB": "魔法使い",
       "RANK": "F",
@@ -732,7 +732,7 @@
       "IDENTIFIER_TEXT": "43:ニム"
     },
     {
-      "LICENSE_ID": 44,
+      "LICENSE_ID": "44",
       "NAME": "ヒスイ",
       "JOB": "研究者",
       "RANK": "F",
@@ -749,7 +749,7 @@
       "IDENTIFIER_TEXT": "44:ヒスイ"
     },
     {
-      "LICENSE_ID": 45,
+      "LICENSE_ID": "45",
       "NAME": "yu___chan",
       "JOB": "自由人",
       "RANK": "F",
@@ -766,7 +766,7 @@
       "IDENTIFIER_TEXT": "45:yu___chan"
     },
     {
-      "LICENSE_ID": 46,
+      "LICENSE_ID": "46",
       "NAME": "かわみ0129",
       "JOB": "記録学者",
       "RANK": "F",
@@ -783,7 +783,7 @@
       "IDENTIFIER_TEXT": "46:かわみ0129"
     },
     {
-      "LICENSE_ID": 47,
+      "LICENSE_ID": "47",
       "NAME": "kou0428",
       "JOB": "科学者",
       "RANK": "F",
@@ -800,7 +800,7 @@
       "IDENTIFIER_TEXT": "47:kou0428"
     },
     {
-      "LICENSE_ID": 48,
+      "LICENSE_ID": "48",
       "NAME": "ゼオノス",
       "JOB": "双剣士",
       "RANK": "F",
@@ -817,7 +817,7 @@
       "IDENTIFIER_TEXT": "48:ゼオノス"
     },
     {
-      "LICENSE_ID": 49,
+      "LICENSE_ID": "49",
       "NAME": "ヴぇヴぇ",
       "JOB": "ネクロマンサー",
       "RANK": "F",
@@ -834,7 +834,7 @@
       "IDENTIFIER_TEXT": "49:ヴぇヴぇ"
     },
     {
-      "LICENSE_ID": 50,
+      "LICENSE_ID": "50",
       "NAME": "sato",
       "JOB": "暗黒騎士",
       "RANK": "E",
@@ -851,7 +851,7 @@
       "IDENTIFIER_TEXT": "50:sato"
     },
     {
-      "LICENSE_ID": 51,
+      "LICENSE_ID": "51",
       "NAME": "とまと",
       "JOB": "園芸師",
       "RANK": "F",
@@ -868,7 +868,7 @@
       "IDENTIFIER_TEXT": "51:とまと"
     },
     {
-      "LICENSE_ID": 52,
+      "LICENSE_ID": "52",
       "NAME": "ミドキャス",
       "JOB": "酒乱",
       "RANK": "F",
@@ -885,7 +885,7 @@
       "IDENTIFIER_TEXT": "52:ミドキャス"
     },
     {
-      "LICENSE_ID": 53,
+      "LICENSE_ID": "53",
       "NAME": "きくろー",
       "JOB": "ヘビースモーカー",
       "RANK": "F",
@@ -902,7 +902,7 @@
       "IDENTIFIER_TEXT": "53:きくろー"
     },
     {
-      "LICENSE_ID": 54,
+      "LICENSE_ID": "54",
       "NAME": "イチゴー",
       "JOB": "",
       "RANK": "F",
@@ -919,7 +919,7 @@
       "IDENTIFIER_TEXT": "54:イチゴー"
     },
     {
-      "LICENSE_ID": 55,
+      "LICENSE_ID": "55",
       "NAME": "AJ",
       "JOB": "パンケーキシェフ",
       "RANK": "F",
@@ -936,7 +936,7 @@
       "IDENTIFIER_TEXT": "55:AJ"
     },
     {
-      "LICENSE_ID": 56,
+      "LICENSE_ID": "56",
       "NAME": "oneeeechan",
       "JOB": "Liar Princess",
       "RANK": "F",
@@ -953,7 +953,7 @@
       "IDENTIFIER_TEXT": "56:oneeeechan"
     },
     {
-      "LICENSE_ID": 57,
+      "LICENSE_ID": "57",
       "NAME": "imooooto",
       "JOB": "notヤンキー",
       "RANK": "F",
@@ -970,7 +970,7 @@
       "IDENTIFIER_TEXT": "57:imooooto"
     },
     {
-      "LICENSE_ID": 58,
+      "LICENSE_ID": "58",
       "NAME": "Emelea",
       "JOB": "音魔導士",
       "RANK": "E",
@@ -987,7 +987,7 @@
       "IDENTIFIER_TEXT": "58:Emelea"
     },
     {
-      "LICENSE_ID": 59,
+      "LICENSE_ID": "59",
       "NAME": "つゆ",
       "JOB": "魔法使い",
       "RANK": "F",
@@ -1004,7 +1004,7 @@
       "IDENTIFIER_TEXT": "59:つゆ"
     },
     {
-      "LICENSE_ID": 60,
+      "LICENSE_ID": "60",
       "NAME": "パイン",
       "JOB": "ヒーラー",
       "RANK": "F",
@@ -1021,7 +1021,7 @@
       "IDENTIFIER_TEXT": "60:パイン"
     },
     {
-      "LICENSE_ID": 61,
+      "LICENSE_ID": "61",
       "NAME": "たばこオフィシャル",
       "JOB": "応援団",
       "RANK": "F",
@@ -1038,7 +1038,7 @@
       "IDENTIFIER_TEXT": "61:たばこオフィシャル"
     },
     {
-      "LICENSE_ID": 62,
+      "LICENSE_ID": "62",
       "NAME": "うむうむ",
       "JOB": "占星術師",
       "RANK": "F",
@@ -1055,7 +1055,7 @@
       "IDENTIFIER_TEXT": "62:うむうむ"
     },
     {
-      "LICENSE_ID": 63,
+      "LICENSE_ID": "63",
       "NAME": "MANA_B28",
       "JOB": "盗賊",
       "RANK": "F",
@@ -1072,7 +1072,7 @@
       "IDENTIFIER_TEXT": "63:MANA_B28"
     },
     {
-      "LICENSE_ID": 64,
+      "LICENSE_ID": "64",
       "NAME": "かたむくん",
       "JOB": "調教師",
       "RANK": "F",
@@ -1089,7 +1089,7 @@
       "IDENTIFIER_TEXT": "64:かたむくん"
     },
     {
-      "LICENSE_ID": 65,
+      "LICENSE_ID": "65",
       "NAME": "カノン",
       "JOB": "旅人",
       "RANK": "F",
@@ -1106,7 +1106,7 @@
       "IDENTIFIER_TEXT": "65:カノン"
     },
     {
-      "LICENSE_ID": 66,
+      "LICENSE_ID": "66",
       "NAME": "C57順也",
       "JOB": "腹黒",
       "RANK": "F",
@@ -1123,7 +1123,7 @@
       "IDENTIFIER_TEXT": "66:C57順也"
     },
     {
-      "LICENSE_ID": 67,
+      "LICENSE_ID": "67",
       "NAME": "AC２S",
       "JOB": "魔法使い",
       "RANK": "F",
@@ -1140,7 +1140,7 @@
       "IDENTIFIER_TEXT": "67:AC２S"
     },
     {
-      "LICENSE_ID": 68,
+      "LICENSE_ID": "68",
       "NAME": "星海",
       "JOB": "グリムリーパー",
       "RANK": "F",
@@ -1157,7 +1157,7 @@
       "IDENTIFIER_TEXT": "68:星海"
     },
     {
-      "LICENSE_ID": 69,
+      "LICENSE_ID": "69",
       "NAME": "Ａｚｕｌ（アスール）",
       "JOB": "妖術師",
       "RANK": "F",
@@ -1174,7 +1174,7 @@
       "IDENTIFIER_TEXT": "69:Ａｚｕｌ（アスール）"
     },
     {
-      "LICENSE_ID": 70,
+      "LICENSE_ID": "70",
       "NAME": "coconut_jp",
       "JOB": "堕天使",
       "RANK": "F",
@@ -1191,7 +1191,7 @@
       "IDENTIFIER_TEXT": "70:coconut_jp"
     },
     {
-      "LICENSE_ID": 71,
+      "LICENSE_ID": "71",
       "NAME": "ぷりん",
       "JOB": "傭兵",
       "RANK": "F",
@@ -1208,7 +1208,7 @@
       "IDENTIFIER_TEXT": "71:ぷりん"
     },
     {
-      "LICENSE_ID": 72,
+      "LICENSE_ID": "72",
       "NAME": "びじた",
       "JOB": "傭兵",
       "RANK": "F",
@@ -1225,7 +1225,7 @@
       "IDENTIFIER_TEXT": "72:びじた"
     },
     {
-      "LICENSE_ID": 73,
+      "LICENSE_ID": "73",
       "NAME": "kanisann",
       "JOB": "アーチャー",
       "RANK": "F",
@@ -1242,7 +1242,7 @@
       "IDENTIFIER_TEXT": "73:kanisann"
     },
     {
-      "LICENSE_ID": 74,
+      "LICENSE_ID": "74",
       "NAME": "オサム",
       "JOB": "拳闘士",
       "RANK": "F",
@@ -1259,7 +1259,7 @@
       "IDENTIFIER_TEXT": "74:オサム"
     },
     {
-      "LICENSE_ID": 75,
+      "LICENSE_ID": "75",
       "NAME": "Jack",
       "JOB": "アサシン",
       "RANK": "F",
@@ -1276,7 +1276,7 @@
       "IDENTIFIER_TEXT": "75:Jack"
     },
     {
-      "LICENSE_ID": 76,
+      "LICENSE_ID": "76",
       "NAME": "Sunny",
       "JOB": "OMG学園長",
       "RANK": "F",
@@ -1293,7 +1293,7 @@
       "IDENTIFIER_TEXT": "76:Sunny"
     },
     {
-      "LICENSE_ID": 77,
+      "LICENSE_ID": "77",
       "NAME": "御寿 司庵",
       "JOB": "骨",
       "RANK": "E",
@@ -1310,7 +1310,7 @@
       "IDENTIFIER_TEXT": "77:御寿 司庵"
     },
     {
-      "LICENSE_ID": 78,
+      "LICENSE_ID": "78",
       "NAME": "Micaela",
       "JOB": "剣士",
       "RANK": "F",
@@ -1327,7 +1327,7 @@
       "IDENTIFIER_TEXT": "78:Micaela"
     },
     {
-      "LICENSE_ID": 79,
+      "LICENSE_ID": "79",
       "NAME": "ミュミュ",
       "JOB": "化け狐",
       "RANK": "F",
@@ -1344,7 +1344,7 @@
       "IDENTIFIER_TEXT": "79:ミュミュ"
     },
     {
-      "LICENSE_ID": 80,
+      "LICENSE_ID": "80",
       "NAME": "URAN-chan",
       "JOB": "神",
       "RANK": "F",
@@ -1361,7 +1361,7 @@
       "IDENTIFIER_TEXT": "80:URAN-chan"
     },
     {
-      "LICENSE_ID": 81,
+      "LICENSE_ID": "81",
       "NAME": "キウイ「\\50」kiwi",
       "JOB": "薬屋",
       "RANK": "F",
@@ -1378,7 +1378,7 @@
       "IDENTIFIER_TEXT": "81:キウイ「\\50」kiwi"
     },
     {
-      "LICENSE_ID": 82,
+      "LICENSE_ID": "82",
       "NAME": "sumin",
       "JOB": "カレーうどん教授",
       "RANK": "F",
@@ -1395,7 +1395,7 @@
       "IDENTIFIER_TEXT": "82:sumin"
     },
     {
-      "LICENSE_ID": 83,
+      "LICENSE_ID": "83",
       "NAME": "うぃーん",
       "JOB": "ライトスモーカー",
       "RANK": "F",
@@ -1412,7 +1412,7 @@
       "IDENTIFIER_TEXT": "83:うぃーん"
     },
     {
-      "LICENSE_ID": 84,
+      "LICENSE_ID": "84",
       "NAME": "鈴音ハル",
       "JOB": "召喚士",
       "RANK": "F",
@@ -1429,7 +1429,7 @@
       "IDENTIFIER_TEXT": "84:鈴音ハル"
     },
     {
-      "LICENSE_ID": 85,
+      "LICENSE_ID": "85",
       "NAME": "Lucas",
       "JOB": "出会い厨",
       "RANK": "E",
@@ -1446,7 +1446,7 @@
       "IDENTIFIER_TEXT": "85:Lucas"
     },
     {
-      "LICENSE_ID": 86,
+      "LICENSE_ID": "86",
       "NAME": "すやちぃ",
       "JOB": "上級国民",
       "RANK": "F",
@@ -1463,7 +1463,7 @@
       "IDENTIFIER_TEXT": "86:すやちぃ"
     },
     {
-      "LICENSE_ID": 87,
+      "LICENSE_ID": "87",
       "NAME": "dag-ed",
       "JOB": "ビックリドッキリロボ",
       "RANK": "F",
@@ -1480,7 +1480,7 @@
       "IDENTIFIER_TEXT": "87:dag-ed"
     },
     {
-      "LICENSE_ID": 88,
+      "LICENSE_ID": "88",
       "NAME": "ソウルリッパー",
       "JOB": "断魂士",
       "RANK": "F",
@@ -1497,7 +1497,7 @@
       "IDENTIFIER_TEXT": "88:ソウルリッパー"
     },
     {
-      "LICENSE_ID": 89,
+      "LICENSE_ID": "89",
       "NAME": "御稲荷",
       "JOB": "オスガキ九尾",
       "RANK": "F",
@@ -1514,7 +1514,7 @@
       "IDENTIFIER_TEXT": "89:御稲荷"
     },
     {
-      "LICENSE_ID": 90,
+      "LICENSE_ID": "90",
       "NAME": "グリーンティ",
       "JOB": "白魔導士",
       "RANK": "F",
@@ -1531,7 +1531,7 @@
       "IDENTIFIER_TEXT": "90:グリーンティ"
     },
     {
-      "LICENSE_ID": 91,
+      "LICENSE_ID": "91",
       "NAME": "夢乃える",
       "JOB": "えるえる",
       "RANK": "F",
@@ -1548,7 +1548,7 @@
       "IDENTIFIER_TEXT": "91:夢乃える"
     },
     {
-      "LICENSE_ID": 92,
+      "LICENSE_ID": "92",
       "NAME": "ゔぁーさーかー",
       "JOB": "#おしゃれさんと繋がりたい",
       "RANK": "F",
@@ -1565,7 +1565,7 @@
       "IDENTIFIER_TEXT": "92:ゔぁーさーかー"
     },
     {
-      "LICENSE_ID": 93,
+      "LICENSE_ID": "93",
       "NAME": "犬派ふみ",
       "JOB": "絵描きの遊び人",
       "RANK": "F",
@@ -1582,7 +1582,7 @@
       "IDENTIFIER_TEXT": "93:犬派ふみ"
     },
     {
-      "LICENSE_ID": 94,
+      "LICENSE_ID": "94",
       "NAME": "Trista.",
       "JOB": "地球外生命体",
       "RANK": "F",
@@ -1599,7 +1599,7 @@
       "IDENTIFIER_TEXT": "94:Trista."
     },
     {
-      "LICENSE_ID": 95,
+      "LICENSE_ID": "95",
       "NAME": "けろっぴ",
       "JOB": "からあげ",
       "RANK": "F",
@@ -1616,7 +1616,7 @@
       "IDENTIFIER_TEXT": "95:けろっぴ"
     },
     {
-      "LICENSE_ID": 96,
+      "LICENSE_ID": "96",
       "NAME": "普通のなめこ",
       "JOB": "きのこ",
       "RANK": "F",
@@ -1633,7 +1633,7 @@
       "IDENTIFIER_TEXT": "96:普通のなめこ"
     },
     {
-      "LICENSE_ID": 97,
+      "LICENSE_ID": "97",
       "NAME": "異常癖",
       "JOB": "自宅警備員",
       "RANK": "F",
@@ -1650,7 +1650,7 @@
       "IDENTIFIER_TEXT": "97:異常癖"
     },
     {
-      "LICENSE_ID": 98,
+      "LICENSE_ID": "98",
       "NAME": "レイレイ",
       "JOB": "商人",
       "RANK": "F",
@@ -1667,7 +1667,7 @@
       "IDENTIFIER_TEXT": "98:レイレイ"
     },
     {
-      "LICENSE_ID": 99,
+      "LICENSE_ID": "99",
       "NAME": "ふろんとれもん",
       "JOB": "犬",
       "RANK": "F",
@@ -1684,7 +1684,7 @@
       "IDENTIFIER_TEXT": "99:ふろんとれもん"
     },
     {
-      "LICENSE_ID": 100,
+      "LICENSE_ID": "100",
       "NAME": "カーテンコール",
       "JOB": "傭兵",
       "RANK": "F",
@@ -1701,7 +1701,7 @@
       "IDENTIFIER_TEXT": "100:カーテンコール"
     },
     {
-      "LICENSE_ID": 101,
+      "LICENSE_ID": "101",
       "NAME": "転がる犬",
       "JOB": "犬",
       "RANK": "F",
@@ -1718,7 +1718,7 @@
       "IDENTIFIER_TEXT": "101:転がる犬"
     },
     {
-      "LICENSE_ID": 102,
+      "LICENSE_ID": "102",
       "NAME": "PuttyRR",
       "JOB": "魔法少女",
       "RANK": "F",
@@ -1735,7 +1735,7 @@
       "IDENTIFIER_TEXT": "102:PuttyRR"
     },
     {
-      "LICENSE_ID": 103,
+      "LICENSE_ID": "103",
       "NAME": "トウヤン",
       "JOB": "シーフ",
       "RANK": "F",
@@ -1752,7 +1752,7 @@
       "IDENTIFIER_TEXT": "103:トウヤン"
     },
     {
-      "LICENSE_ID": 104,
+      "LICENSE_ID": "104",
       "NAME": "NIA 2A",
       "JOB": "異国の剣豪",
       "RANK": "F",
@@ -1769,7 +1769,7 @@
       "IDENTIFIER_TEXT": "104:NIA 2A"
     },
     {
-      "LICENSE_ID": 105,
+      "LICENSE_ID": "105",
       "NAME": "鈴恵",
       "JOB": "メイド騎士",
       "RANK": "F",
@@ -1786,7 +1786,7 @@
       "IDENTIFIER_TEXT": "105:鈴恵"
     },
     {
-      "LICENSE_ID": 106,
+      "LICENSE_ID": "106",
       "NAME": "はやトトロ",
       "JOB": "人形使い",
       "RANK": "F",
@@ -1803,7 +1803,7 @@
       "IDENTIFIER_TEXT": "106:はやトトロ"
     },
     {
-      "LICENSE_ID": 107,
+      "LICENSE_ID": "107",
       "NAME": "ザクロス",
       "JOB": "ランサー",
       "RANK": "F",
@@ -1820,7 +1820,7 @@
       "IDENTIFIER_TEXT": "107:ザクロス"
     },
     {
-      "LICENSE_ID": 108,
+      "LICENSE_ID": "108",
       "NAME": "Ui",
       "JOB": "ガラス職人",
       "RANK": "F",
@@ -1837,7 +1837,7 @@
       "IDENTIFIER_TEXT": "108:Ui"
     },
     {
-      "LICENSE_ID": 109,
+      "LICENSE_ID": "109",
       "NAME": "ねこしゃん",
       "JOB": "肉屋",
       "RANK": "F",
@@ -1854,7 +1854,7 @@
       "IDENTIFIER_TEXT": "109:ねこしゃん"
     },
     {
-      "LICENSE_ID": 110,
+      "LICENSE_ID": "110",
       "NAME": "フラン",
       "JOB": "魔剣士",
       "RANK": "F",
@@ -1871,7 +1871,7 @@
       "IDENTIFIER_TEXT": "110:フラン"
     },
     {
-      "LICENSE_ID": 111,
+      "LICENSE_ID": "111",
       "NAME": "カーボン_Carbon",
       "JOB": "炭原もうふ店",
       "RANK": "F",
@@ -1888,7 +1888,7 @@
       "IDENTIFIER_TEXT": "111:カーボン_Carbon"
     },
     {
-      "LICENSE_ID": 112,
+      "LICENSE_ID": "112",
       "NAME": "シロツメクサ",
       "JOB": "りょうし",
       "RANK": "F",
@@ -1905,7 +1905,7 @@
       "IDENTIFIER_TEXT": "112:シロツメクサ"
     },
     {
-      "LICENSE_ID": 113,
+      "LICENSE_ID": "113",
       "NAME": "ちはる",
       "JOB": "魔法使い",
       "RANK": "F",
@@ -1922,7 +1922,7 @@
       "IDENTIFIER_TEXT": "113:ちはる"
     },
     {
-      "LICENSE_ID": 114,
+      "LICENSE_ID": "114",
       "NAME": "ブロウ",
       "JOB": "格闘士",
       "RANK": "F",
@@ -1939,7 +1939,7 @@
       "IDENTIFIER_TEXT": "114:ブロウ"
     },
     {
-      "LICENSE_ID": 115,
+      "LICENSE_ID": "115",
       "NAME": "シェル",
       "JOB": "船長",
       "RANK": "F",
@@ -1956,7 +1956,7 @@
       "IDENTIFIER_TEXT": "115:シェル"
     },
     {
-      "LICENSE_ID": 116,
+      "LICENSE_ID": "116",
       "NAME": "エビ揉むな",
       "JOB": "活動家",
       "RANK": "F",
@@ -1973,7 +1973,7 @@
       "IDENTIFIER_TEXT": "116:エビ揉むな"
     },
     {
-      "LICENSE_ID": 117,
+      "LICENSE_ID": "117",
       "NAME": "ゆーやん",
       "JOB": "ナイト",
       "RANK": "F",
@@ -1990,7 +1990,7 @@
       "IDENTIFIER_TEXT": "117:ゆーやん"
     },
     {
-      "LICENSE_ID": 118,
+      "LICENSE_ID": "118",
       "NAME": "haniyama",
       "JOB": "魔法使い",
       "RANK": "F",
@@ -2007,7 +2007,7 @@
       "IDENTIFIER_TEXT": "118:haniyama"
     },
     {
-      "LICENSE_ID": 119,
+      "LICENSE_ID": "119",
       "NAME": "furisuk",
       "JOB": "枝拾い",
       "RANK": "F",
@@ -2024,7 +2024,7 @@
       "IDENTIFIER_TEXT": "119:furisuk"
     },
     {
-      "LICENSE_ID": 120,
+      "LICENSE_ID": "120",
       "NAME": "げんじ Lv20",
       "JOB": "戦闘メイド",
       "RANK": "F",
@@ -2041,7 +2041,7 @@
       "IDENTIFIER_TEXT": "120:げんじ Lv20"
     },
     {
-      "LICENSE_ID": 121,
+      "LICENSE_ID": "121",
       "NAME": "アマノヨミザクラ",
       "JOB": "サキュバス",
       "RANK": "F",
@@ -2058,7 +2058,7 @@
       "IDENTIFIER_TEXT": "121:アマノヨミザクラ"
     },
     {
-      "LICENSE_ID": 122,
+      "LICENSE_ID": "122",
       "NAME": "ダイル",
       "JOB": "冒険者",
       "RANK": "F",
@@ -2075,7 +2075,7 @@
       "IDENTIFIER_TEXT": "122:ダイル"
     },
     {
-      "LICENSE_ID": 123,
+      "LICENSE_ID": "123",
       "NAME": "八柳",
       "JOB": "物書き",
       "RANK": "F",
@@ -2092,7 +2092,7 @@
       "IDENTIFIER_TEXT": "123:八柳"
     },
     {
-      "LICENSE_ID": 124,
+      "LICENSE_ID": "124",
       "NAME": "こなちゃ。",
       "JOB": "酒飲み",
       "RANK": "F",
@@ -2109,7 +2109,7 @@
       "IDENTIFIER_TEXT": "124:こなちゃ。"
     },
     {
-      "LICENSE_ID": 125,
+      "LICENSE_ID": "125",
       "NAME": "いずみ",
       "JOB": "ファーマー",
       "RANK": "F",
@@ -2126,7 +2126,7 @@
       "IDENTIFIER_TEXT": "125:いずみ"
     },
     {
-      "LICENSE_ID": 126,
+      "LICENSE_ID": "126",
       "NAME": "かむい",
       "JOB": "マイペース",
       "RANK": "F",
@@ -2143,7 +2143,7 @@
       "IDENTIFIER_TEXT": "126:かむい"
     },
     {
-      "LICENSE_ID": 127,
+      "LICENSE_ID": "127",
       "NAME": "Sakutuki",
       "JOB": "剣扇舞家",
       "RANK": "F",
@@ -2160,7 +2160,7 @@
       "IDENTIFIER_TEXT": "127:Sakutuki"
     },
     {
-      "LICENSE_ID": 128,
+      "LICENSE_ID": "128",
       "NAME": "Kotoko",
       "JOB": "剣扇舞家",
       "RANK": "F",
@@ -2177,7 +2177,7 @@
       "IDENTIFIER_TEXT": "128:Kotoko"
     },
     {
-      "LICENSE_ID": 129,
+      "LICENSE_ID": "129",
       "NAME": "ごきぶり",
       "JOB": "へんたいしょしんしゃ",
       "RANK": "F",
@@ -2194,7 +2194,7 @@
       "IDENTIFIER_TEXT": "129:ごきぶり"
     },
     {
-      "LICENSE_ID": 130,
+      "LICENSE_ID": "130",
       "NAME": "Gulu",
       "JOB": "ラッコ",
       "RANK": "F",
@@ -2211,7 +2211,7 @@
       "IDENTIFIER_TEXT": "130:Gulu"
     },
     {
-      "LICENSE_ID": 131,
+      "LICENSE_ID": "131",
       "NAME": "touki",
       "JOB": "なし",
       "RANK": "F",
@@ -2228,7 +2228,7 @@
       "IDENTIFIER_TEXT": "131:touki"
     },
     {
-      "LICENSE_ID": 132,
+      "LICENSE_ID": "132",
       "NAME": "れもん",
       "JOB": "柑橘類",
       "RANK": "F",
@@ -2245,7 +2245,7 @@
       "IDENTIFIER_TEXT": "132:れもん"
     },
     {
-      "LICENSE_ID": 133,
+      "LICENSE_ID": "133",
       "NAME": "かにち",
       "JOB": "侍",
       "RANK": "F",
@@ -2262,7 +2262,7 @@
       "IDENTIFIER_TEXT": "133:かにち"
     },
     {
-      "LICENSE_ID": 134,
+      "LICENSE_ID": "134",
       "NAME": "レイヤ",
       "JOB": "剣士",
       "RANK": "F",
@@ -2279,7 +2279,7 @@
       "IDENTIFIER_TEXT": "134:レイヤ"
     },
     {
-      "LICENSE_ID": 135,
+      "LICENSE_ID": "135",
       "NAME": "あも",
       "JOB": "動物使い",
       "RANK": "F",
@@ -2296,7 +2296,7 @@
       "IDENTIFIER_TEXT": "135:あも"
     },
     {
-      "LICENSE_ID": 136,
+      "LICENSE_ID": "136",
       "NAME": "きうい",
       "JOB": "学生",
       "RANK": "F",
@@ -2313,7 +2313,7 @@
       "IDENTIFIER_TEXT": "136:きうい"
     },
     {
-      "LICENSE_ID": 137,
+      "LICENSE_ID": "137",
       "NAME": "かんぜ",
       "JOB": "パン屋さん",
       "RANK": "F",
