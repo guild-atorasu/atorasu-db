@@ -1,10 +1,27 @@
 {
   "adventurers": [
     {
+      "LICENSE_ID": "LICENSE_ID",
+      "NAME": "NAME",
+      "JOB": "JOB",
+      "RANK": "RANK",
+      "POINT": null,
+      "LINK": "LINK",
+      "PICTURE_LINK": "PICTURE_LINK",
+      "UNITY_LINK": "UNITY_LINK",
+      "MEMO": "MEMO",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": "INSDATE",
+      "UPTDATE": "UPTDATE",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "IDENTIFIER_TEXT"
+    },
+    {
       "LICENSE_ID": "1",
       "NAME": "らい",
       "JOB": "錬金術師",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/rai_us4gi",
       "PICTURE_LINK": "",
@@ -13,14 +30,15 @@
       "WORLD_FLG": false,
       "SEND_FLG": false,
       "INSDATE": "2025-06-26T15:00:00.000Z",
-      "UPTDATE": "2025-09-02T13:23:32.758Z",
-      "DELFLG": false
+      "UPTDATE": "2025-09-10T06:44:39.242Z",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "1:らい"
     },
     {
       "LICENSE_ID": "2",
       "NAME": "ユーク",
       "JOB": "荷物持ち",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/yuuku214",
       "PICTURE_LINK": "",
@@ -30,13 +48,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-06-26T15:00:00.000Z",
       "UPTDATE": "2025-06-26T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "2:ユーク"
     },
     {
       "LICENSE_ID": "3",
       "NAME": "マイマイマイ",
       "JOB": "召喚士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -46,13 +65,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-06-26T15:00:00.000Z",
       "UPTDATE": "2025-06-27T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "3:マイマイマイ"
     },
     {
       "LICENSE_ID": "4",
       "NAME": "国産おかき",
       "JOB": "漁戦士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 20,
       "LINK": "https://x.com/okaki2345vrc",
       "PICTURE_LINK": "",
@@ -62,13 +82,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-06-26T15:00:00.000Z",
       "UPTDATE": "2025-06-26T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "4:国産おかき"
     },
     {
       "LICENSE_ID": "5",
       "NAME": "ブルージー",
       "JOB": "剣扇士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "bluegie",
       "PICTURE_LINK": "",
@@ -78,13 +99,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-06-26T15:00:00.000Z",
       "UPTDATE": "2025-06-26T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "5:ブルージー"
     },
     {
       "LICENSE_ID": "6",
       "NAME": "aina",
       "JOB": "魔法使い",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -94,13 +116,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-04T15:00:00.000Z",
       "UPTDATE": "2025-07-04T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "6:aina"
     },
     {
       "LICENSE_ID": "7",
       "NAME": "ユーラナス",
       "JOB": "魔法使い",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/uranus151",
       "PICTURE_LINK": "",
@@ -110,13 +133,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-04T15:00:00.000Z",
       "UPTDATE": "2025-07-04T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "7:ユーラナス"
     },
     {
       "LICENSE_ID": "8",
       "NAME": "Neko-coll0sugXr",
       "JOB": "覇王",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -126,13 +150,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-04T15:00:00.000Z",
       "UPTDATE": "2025-07-04T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "8:Neko-coll0sugXr"
     },
     {
       "LICENSE_ID": "9",
       "NAME": "室町きりん",
       "JOB": "ソードマスター",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -142,13 +167,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-04T15:00:00.000Z",
       "UPTDATE": "2025-07-04T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "9:室町きりん"
     },
     {
       "LICENSE_ID": "10",
       "NAME": "Shoootanu",
       "JOB": "商人",
-      "RANK": null,
+      "RANK": "E",
       "POINT": 60,
       "LINK": "https://x.com/shooota48f6",
       "PICTURE_LINK": "",
@@ -158,13 +184,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-04T15:00:00.000Z",
       "UPTDATE": "2025-07-04T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "10:Shoootanu"
     },
     {
       "LICENSE_ID": "11",
       "NAME": "おもちマン",
       "JOB": "魔族剣士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/J4436085240292",
       "PICTURE_LINK": "",
@@ -174,13 +201,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-05T15:00:00.000Z",
       "UPTDATE": "2025-07-05T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "11:おもちマン"
     },
     {
       "LICENSE_ID": "12",
       "NAME": "無銘774",
       "JOB": "聖女",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -190,13 +218,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-05T15:00:00.000Z",
       "UPTDATE": "2025-07-05T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "12:無銘774"
     },
     {
       "LICENSE_ID": "13",
       "NAME": "夜月",
       "JOB": "傭兵",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/denrou25",
       "PICTURE_LINK": "",
@@ -206,13 +235,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-05T15:00:00.000Z",
       "UPTDATE": "2025-07-05T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "13:夜月"
     },
     {
       "LICENSE_ID": "14",
       "NAME": "Fgiemon",
       "JOB": "探偵",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/amemura884",
       "PICTURE_LINK": "",
@@ -222,13 +252,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-05T15:00:00.000Z",
       "UPTDATE": "2025-07-05T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "14:Fgiemon"
     },
     {
       "LICENSE_ID": "15",
       "NAME": "Sin鎌鼬",
       "JOB": "ギャンブラー",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/0612Safira",
       "PICTURE_LINK": "",
@@ -238,13 +269,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-05T15:00:00.000Z",
       "UPTDATE": "2025-07-05T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "15:Sin鎌鼬"
     },
     {
       "LICENSE_ID": "16",
       "NAME": "saku0204",
       "JOB": "剣士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/iBzpEcqiiP37041",
       "PICTURE_LINK": "",
@@ -254,13 +286,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-05T15:00:00.000Z",
       "UPTDATE": "2025-07-05T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "16:saku0204"
     },
     {
       "LICENSE_ID": "17",
       "NAME": "Kai",
       "JOB": "剣豪",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -270,13 +303,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-05T15:00:00.000Z",
       "UPTDATE": "2025-07-05T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "17:Kai"
     },
     {
       "LICENSE_ID": "18",
       "NAME": "ユジーン_Eugene",
       "JOB": "お供猫",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -286,13 +320,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-05T15:00:00.000Z",
       "UPTDATE": "2025-07-05T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "18:ユジーン_Eugene"
     },
     {
       "LICENSE_ID": "19",
       "NAME": "きうえちゃん",
       "JOB": "詐欺師",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/kiuechan175",
       "PICTURE_LINK": "",
@@ -302,13 +337,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-05T15:00:00.000Z",
       "UPTDATE": "2025-07-05T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "19:きうえちゃん"
     },
     {
       "LICENSE_ID": "20",
       "NAME": "ヨモティー",
       "JOB": "魔王",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -318,13 +354,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-05T15:00:00.000Z",
       "UPTDATE": "2025-07-05T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "20:ヨモティー"
     },
     {
       "LICENSE_ID": "21",
       "NAME": "かみじ まなや",
       "JOB": "魔導士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -334,13 +371,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-05T15:00:00.000Z",
       "UPTDATE": "2025-07-05T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "21:かみじ まなや"
     },
     {
       "LICENSE_ID": "22",
       "NAME": "ループさん",
       "JOB": "魔術士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/Ru_pu_3",
       "PICTURE_LINK": "",
@@ -350,13 +388,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-05T15:00:00.000Z",
       "UPTDATE": "2025-07-05T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "22:ループさん"
     },
     {
       "LICENSE_ID": "23",
       "NAME": "雪宮カンスケ",
       "JOB": "軍師",
-      "RANK": null,
+      "RANK": "E",
       "POINT": 60,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -366,13 +405,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-05T15:00:00.000Z",
       "UPTDATE": "2025-07-05T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "23:雪宮カンスケ"
     },
     {
       "LICENSE_ID": "24",
       "NAME": "からぼし",
       "JOB": "闘士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "ディスコード",
       "PICTURE_LINK": "",
@@ -382,13 +422,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-05T15:00:00.000Z",
       "UPTDATE": "2025-07-05T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "24:からぼし"
     },
     {
       "LICENSE_ID": "25",
       "NAME": "大魔王サタン",
       "JOB": "大魔王",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -398,13 +439,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-06T15:00:00.000Z",
       "UPTDATE": "2025-07-06T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "25:大魔王サタン"
     },
     {
       "LICENSE_ID": "26",
       "NAME": "アッシュ-Ash",
       "JOB": "竜騎士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/ASHash0609",
       "PICTURE_LINK": "",
@@ -414,13 +456,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-06T15:00:00.000Z",
       "UPTDATE": "2025-07-06T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "26:アッシュ-Ash"
     },
     {
       "LICENSE_ID": "27",
       "NAME": "なるみん",
       "JOB": "闇魔導士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/naruminminn",
       "PICTURE_LINK": "",
@@ -430,13 +473,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-06T15:00:00.000Z",
       "UPTDATE": "2025-07-06T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "27:なるみん"
     },
     {
       "LICENSE_ID": "28",
       "NAME": "セナ",
       "JOB": "魔剣士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/yukiji_sena_vrc",
       "PICTURE_LINK": "",
@@ -446,13 +490,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-06T15:00:00.000Z",
       "UPTDATE": "2025-07-06T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "28:セナ"
     },
     {
       "LICENSE_ID": "29",
       "NAME": "シライ",
       "JOB": "バーサクヒーラー",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 50,
       "LINK": "https://x.com/shirai25138293",
       "PICTURE_LINK": "",
@@ -462,13 +507,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-06T15:00:00.000Z",
       "UPTDATE": "2025-07-06T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "29:シライ"
     },
     {
       "LICENSE_ID": "30",
       "NAME": "SYFubuki",
       "JOB": "nvidia職員",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -478,13 +524,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-06T15:00:00.000Z",
       "UPTDATE": "2025-07-06T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "30:SYFubuki"
     },
     {
       "LICENSE_ID": "31",
       "NAME": "basa-go",
       "JOB": "暴食族",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -494,13 +541,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-06T15:00:00.000Z",
       "UPTDATE": "2025-07-06T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "31:basa-go"
     },
     {
       "LICENSE_ID": "32",
       "NAME": "12",
       "JOB": "売人",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/DARS_VRC",
       "PICTURE_LINK": "",
@@ -510,13 +558,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-06T15:00:00.000Z",
       "UPTDATE": "2025-07-06T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "32:12"
     },
     {
       "LICENSE_ID": "33",
       "NAME": "coil",
       "JOB": "錬金術師",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/Coil_thinking",
       "PICTURE_LINK": "",
@@ -526,13 +575,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-06T15:00:00.000Z",
       "UPTDATE": "2025-07-06T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "33:coil"
     },
     {
       "LICENSE_ID": "34",
       "NAME": "グランマごとう",
       "JOB": "魔法使い見習い",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 10,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -542,13 +592,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-06T15:00:00.000Z",
       "UPTDATE": "2025-07-06T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "34:グランマごとう"
     },
     {
       "LICENSE_ID": "35",
       "NAME": "Kurueru",
       "JOB": "アヌビス",
-      "RANK": null,
+      "RANK": "E",
       "POINT": 65,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -558,13 +609,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-06T15:00:00.000Z",
       "UPTDATE": "2025-07-06T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "35:Kurueru"
     },
     {
       "LICENSE_ID": "36",
       "NAME": "なみnori",
       "JOB": "見習い店員",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/nami_no_vr",
       "PICTURE_LINK": "",
@@ -574,13 +626,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-06T15:00:00.000Z",
       "UPTDATE": "2025-07-06T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "36:なみnori"
     },
     {
       "LICENSE_ID": "37",
       "NAME": "Yatasiro",
       "JOB": "まめひなた長",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -590,13 +643,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-08T15:00:00.000Z",
       "UPTDATE": "2025-07-08T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "37:Yatasiro"
     },
     {
       "LICENSE_ID": "38",
       "NAME": "miya0808",
       "JOB": "決闘者",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 30,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -606,13 +660,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-09T15:00:00.000Z",
       "UPTDATE": "2025-07-09T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "38:miya0808"
     },
     {
       "LICENSE_ID": "39",
       "NAME": "ひびーき",
       "JOB": "遊び人",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -622,13 +677,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-09T15:00:00.000Z",
       "UPTDATE": "2025-07-09T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "39:ひびーき"
     },
     {
       "LICENSE_ID": "40",
       "NAME": "奈良穂ルカ",
       "JOB": "ペンギン",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/haeri2003",
       "PICTURE_LINK": "",
@@ -638,13 +694,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "40:奈良穂ルカ"
     },
     {
       "LICENSE_ID": "41",
       "NAME": "ハバキリ",
       "JOB": "召喚士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -654,13 +711,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "41:ハバキリ"
     },
     {
       "LICENSE_ID": "42",
       "NAME": "ラグナ",
       "JOB": "鑑定士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -670,13 +728,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "42:ラグナ"
     },
     {
       "LICENSE_ID": "43",
       "NAME": "ニム",
       "JOB": "魔法使い",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/hatirokuakuyaVR",
       "PICTURE_LINK": "",
@@ -686,13 +745,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "43:ニム"
     },
     {
       "LICENSE_ID": "44",
       "NAME": "ヒスイ",
       "JOB": "研究者",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -702,13 +762,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "44:ヒスイ"
     },
     {
       "LICENSE_ID": "45",
       "NAME": "yu___chan",
       "JOB": "自由人",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -718,13 +779,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "45:yu___chan"
     },
     {
       "LICENSE_ID": "46",
       "NAME": "かわみ0129",
       "JOB": "記録学者",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -734,13 +796,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "46:かわみ0129"
     },
     {
       "LICENSE_ID": "47",
       "NAME": "kou0428",
       "JOB": "科学者",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -750,13 +813,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "47:kou0428"
     },
     {
       "LICENSE_ID": "48",
       "NAME": "ゼオノス",
       "JOB": "双剣士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -766,13 +830,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "48:ゼオノス"
     },
     {
       "LICENSE_ID": "49",
       "NAME": "ヴぇヴぇ",
       "JOB": "ネクロマンサー",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/vevefon_",
       "PICTURE_LINK": "",
@@ -782,13 +847,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "49:ヴぇヴぇ"
     },
     {
       "LICENSE_ID": "50",
       "NAME": "sato",
       "JOB": "暗黒騎士",
-      "RANK": null,
+      "RANK": "E",
       "POINT": 30,
       "LINK": "https://x.com/sato49VRchat",
       "PICTURE_LINK": "",
@@ -798,13 +864,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "50:sato"
     },
     {
       "LICENSE_ID": "51",
       "NAME": "とまと",
       "JOB": "園芸師",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 30,
       "LINK": "https://x.com/tomato22_vrc",
       "PICTURE_LINK": "",
@@ -814,13 +881,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "51:とまと"
     },
     {
       "LICENSE_ID": "52",
       "NAME": "ミドキャス",
       "JOB": "酒乱",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/vrc_midokyasu",
       "PICTURE_LINK": "",
@@ -830,13 +898,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "52:ミドキャス"
     },
     {
       "LICENSE_ID": "53",
       "NAME": "きくろー",
       "JOB": "ヘビースモーカー",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 10,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -846,13 +915,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "53:きくろー"
     },
     {
       "LICENSE_ID": "54",
       "NAME": "イチゴー",
       "JOB": "",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -862,13 +932,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "54:イチゴー"
     },
     {
       "LICENSE_ID": "55",
       "NAME": "AJ",
       "JOB": "パンケーキシェフ",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 20,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -878,13 +949,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "55:AJ"
     },
     {
       "LICENSE_ID": "56",
       "NAME": "oneeeechan",
       "JOB": "Liar Princess",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 20,
       "LINK": "https://x.com/1chance2channel",
       "PICTURE_LINK": "",
@@ -894,13 +966,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "56:oneeeechan"
     },
     {
       "LICENSE_ID": "57",
       "NAME": "imooooto",
       "JOB": "notヤンキー",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 20,
       "LINK": "https://x.com/oimoimopoteto",
       "PICTURE_LINK": "",
@@ -910,13 +983,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "57:imooooto"
     },
     {
       "LICENSE_ID": "58",
       "NAME": "Emelea",
       "JOB": "音魔導士",
-      "RANK": null,
+      "RANK": "E",
       "POINT": 45,
       "LINK": "https://x.com/EmeleaFlenda",
       "PICTURE_LINK": "",
@@ -926,13 +1000,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "58:Emelea"
     },
     {
       "LICENSE_ID": "59",
       "NAME": "つゆ",
       "JOB": "魔法使い",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -942,13 +1017,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "59:つゆ"
     },
     {
       "LICENSE_ID": "60",
       "NAME": "パイン",
       "JOB": "ヒーラー",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -958,13 +1034,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "60:パイン"
     },
     {
       "LICENSE_ID": "61",
       "NAME": "たばこオフィシャル",
       "JOB": "応援団",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/tabako_VRC",
       "PICTURE_LINK": "",
@@ -974,13 +1051,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-14T15:00:00.000Z",
       "UPTDATE": "2025-07-14T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "61:たばこオフィシャル"
     },
     {
       "LICENSE_ID": "62",
       "NAME": "うむうむ",
       "JOB": "占星術師",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 10,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -990,13 +1068,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-15T15:00:00.000Z",
       "UPTDATE": "2025-07-15T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "62:うむうむ"
     },
     {
       "LICENSE_ID": "63",
       "NAME": "MANA_B28",
       "JOB": "盗賊",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1006,13 +1085,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-15T15:00:00.000Z",
       "UPTDATE": "2025-07-15T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "63:MANA_B28"
     },
     {
       "LICENSE_ID": "64",
       "NAME": "かたむくん",
       "JOB": "調教師",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 30,
       "LINK": "https://x.com/randoseru_Valo",
       "PICTURE_LINK": "",
@@ -1022,13 +1102,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-15T15:00:00.000Z",
       "UPTDATE": "2025-07-15T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "64:かたむくん"
     },
     {
       "LICENSE_ID": "65",
       "NAME": "カノン",
       "JOB": "旅人",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 30,
       "LINK": "https://x.com/tuki_nonnon",
       "PICTURE_LINK": "",
@@ -1038,13 +1119,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-15T15:00:00.000Z",
       "UPTDATE": "2025-07-15T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "65:カノン"
     },
     {
       "LICENSE_ID": "66",
       "NAME": "C57順也",
       "JOB": "腹黒",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/C57Junya",
       "PICTURE_LINK": "",
@@ -1054,13 +1136,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-16T15:00:00.000Z",
       "UPTDATE": "2025-07-16T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "66:C57順也"
     },
     {
       "LICENSE_ID": "67",
       "NAME": "AC２S",
       "JOB": "魔法使い",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 45,
       "LINK": "https://x.com/AC2_Snake",
       "PICTURE_LINK": "",
@@ -1070,13 +1153,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-22T15:00:00.000Z",
       "UPTDATE": "2025-07-22T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "67:AC２S"
     },
     {
       "LICENSE_ID": "68",
       "NAME": "星海",
       "JOB": "グリムリーパー",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 30,
       "LINK": "https://x.com/shino6262a",
       "PICTURE_LINK": "",
@@ -1086,13 +1170,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-22T15:00:00.000Z",
       "UPTDATE": "2025-07-22T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "68:星海"
     },
     {
       "LICENSE_ID": "69",
       "NAME": "Ａｚｕｌ（アスール）",
       "JOB": "妖術師",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/Azul_blue__",
       "PICTURE_LINK": "",
@@ -1102,13 +1187,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-22T15:00:00.000Z",
       "UPTDATE": "2025-07-22T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "69:Ａｚｕｌ（アスール）"
     },
     {
       "LICENSE_ID": "70",
       "NAME": "coconut_jp",
       "JOB": "堕天使",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1118,13 +1204,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-22T15:00:00.000Z",
       "UPTDATE": "2025-07-22T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "70:coconut_jp"
     },
     {
       "LICENSE_ID": "71",
       "NAME": "ぷりん",
       "JOB": "傭兵",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1134,13 +1221,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-22T15:00:00.000Z",
       "UPTDATE": "2025-07-22T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "71:ぷりん"
     },
     {
       "LICENSE_ID": "72",
       "NAME": "びじた",
       "JOB": "傭兵",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1150,13 +1238,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-22T15:00:00.000Z",
       "UPTDATE": "2025-07-22T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "72:びじた"
     },
     {
       "LICENSE_ID": "73",
       "NAME": "kanisann",
       "JOB": "アーチャー",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 30,
       "LINK": "https://x.com/kanisan_c",
       "PICTURE_LINK": "",
@@ -1166,13 +1255,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-22T15:00:00.000Z",
       "UPTDATE": "2025-07-22T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "73:kanisann"
     },
     {
       "LICENSE_ID": "74",
       "NAME": "オサム",
       "JOB": "拳闘士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 30,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1182,13 +1272,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-22T15:00:00.000Z",
       "UPTDATE": "2025-07-22T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "74:オサム"
     },
     {
       "LICENSE_ID": "75",
       "NAME": "Jack",
       "JOB": "アサシン",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 20,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1198,13 +1289,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-22T15:00:00.000Z",
       "UPTDATE": "2025-07-22T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "75:Jack"
     },
     {
       "LICENSE_ID": "76",
       "NAME": "Sunny",
       "JOB": "OMG学園長",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1214,13 +1306,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-22T15:00:00.000Z",
       "UPTDATE": "2025-07-22T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "76:Sunny"
     },
     {
       "LICENSE_ID": "77",
       "NAME": "御寿 司庵",
       "JOB": "骨",
-      "RANK": null,
+      "RANK": "E",
       "POINT": 30,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1230,13 +1323,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-22T15:00:00.000Z",
       "UPTDATE": "2025-07-22T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "77:御寿 司庵"
     },
     {
       "LICENSE_ID": "78",
       "NAME": "Micaela",
       "JOB": "剣士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 20,
       "LINK": "https://x.com/M4dSrQsmMd43756",
       "PICTURE_LINK": "",
@@ -1246,13 +1340,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-22T15:00:00.000Z",
       "UPTDATE": "2025-07-22T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "78:Micaela"
     },
     {
       "LICENSE_ID": "79",
       "NAME": "ミュミュ",
       "JOB": "化け狐",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1262,13 +1357,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-22T15:00:00.000Z",
       "UPTDATE": "2025-07-22T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "79:ミュミュ"
     },
     {
       "LICENSE_ID": "80",
       "NAME": "URAN-chan",
       "JOB": "神",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1278,13 +1374,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-22T15:00:00.000Z",
       "UPTDATE": "2025-07-22T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "80:URAN-chan"
     },
     {
       "LICENSE_ID": "81",
       "NAME": "キウイ「\\50」kiwi",
       "JOB": "薬屋",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1294,13 +1391,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-22T15:00:00.000Z",
       "UPTDATE": "2025-07-22T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "81:キウイ「\\50」kiwi"
     },
     {
       "LICENSE_ID": "82",
       "NAME": "sumin",
       "JOB": "カレーうどん教授",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1310,13 +1408,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-23T15:00:00.000Z",
       "UPTDATE": "2025-07-23T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "82:sumin"
     },
     {
       "LICENSE_ID": "83",
       "NAME": "うぃーん",
       "JOB": "ライトスモーカー",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1326,13 +1425,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-23T15:00:00.000Z",
       "UPTDATE": "2025-07-23T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "83:うぃーん"
     },
     {
       "LICENSE_ID": "84",
       "NAME": "鈴音ハル",
       "JOB": "召喚士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1342,13 +1442,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-26T15:00:00.000Z",
       "UPTDATE": "2025-07-26T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "84:鈴音ハル"
     },
     {
       "LICENSE_ID": "85",
       "NAME": "Lucas",
       "JOB": "出会い厨",
-      "RANK": null,
+      "RANK": "E",
       "POINT": 40,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1358,13 +1459,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-30T15:00:00.000Z",
       "UPTDATE": "2025-07-30T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "85:Lucas"
     },
     {
       "LICENSE_ID": "86",
       "NAME": "すやちぃ",
       "JOB": "上級国民",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 20,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1374,13 +1476,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-30T15:00:00.000Z",
       "UPTDATE": "2025-07-30T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "86:すやちぃ"
     },
     {
       "LICENSE_ID": "87",
       "NAME": "dag-ed",
       "JOB": "ビックリドッキリロボ",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/dag_ed_vrc",
       "PICTURE_LINK": "",
@@ -1390,13 +1493,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-30T15:00:00.000Z",
       "UPTDATE": "2025-07-30T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "87:dag-ed"
     },
     {
       "LICENSE_ID": "88",
       "NAME": "ソウルリッパー",
       "JOB": "断魂士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 15,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1406,13 +1510,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-30T15:00:00.000Z",
       "UPTDATE": "2025-07-30T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "88:ソウルリッパー"
     },
     {
       "LICENSE_ID": "89",
       "NAME": "御稲荷",
       "JOB": "オスガキ九尾",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 45,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1422,13 +1527,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-30T15:00:00.000Z",
       "UPTDATE": "2025-07-30T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "89:御稲荷"
     },
     {
       "LICENSE_ID": "90",
       "NAME": "グリーンティ",
       "JOB": "白魔導士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 37,
       "LINK": "https://x.com/KHAPpw9ndnxitgf",
       "PICTURE_LINK": "",
@@ -1438,13 +1544,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-30T15:00:00.000Z",
       "UPTDATE": "2025-07-30T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "90:グリーンティ"
     },
     {
       "LICENSE_ID": "91",
       "NAME": "夢乃える",
       "JOB": "えるえる",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/eruyumeno",
       "PICTURE_LINK": "",
@@ -1454,13 +1561,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-30T15:00:00.000Z",
       "UPTDATE": "2025-07-30T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "91:夢乃える"
     },
     {
       "LICENSE_ID": "92",
       "NAME": "ゔぁーさーかー",
       "JOB": "#おしゃれさんと繋がりたい",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1470,13 +1578,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-30T15:00:00.000Z",
       "UPTDATE": "2025-07-30T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "92:ゔぁーさーかー"
     },
     {
       "LICENSE_ID": "93",
       "NAME": "犬派ふみ",
       "JOB": "絵描きの遊び人",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1486,13 +1595,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-30T15:00:00.000Z",
       "UPTDATE": "2025-07-30T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "93:犬派ふみ"
     },
     {
       "LICENSE_ID": "94",
       "NAME": "Trista.",
       "JOB": "地球外生命体",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1502,13 +1612,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-30T15:00:00.000Z",
       "UPTDATE": "2025-07-30T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "94:Trista."
     },
     {
       "LICENSE_ID": "95",
       "NAME": "けろっぴ",
       "JOB": "からあげ",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/keroto_77",
       "PICTURE_LINK": "",
@@ -1518,13 +1629,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-30T15:00:00.000Z",
       "UPTDATE": "2025-07-30T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "95:けろっぴ"
     },
     {
       "LICENSE_ID": "96",
       "NAME": "普通のなめこ",
       "JOB": "きのこ",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/syokuyou_kinoco",
       "PICTURE_LINK": "",
@@ -1534,13 +1646,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-07-31T15:00:00.000Z",
       "UPTDATE": "2025-07-31T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "96:普通のなめこ"
     },
     {
       "LICENSE_ID": "97",
       "NAME": "異常癖",
       "JOB": "自宅警備員",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 20,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1550,13 +1663,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-08T15:00:00.000Z",
       "UPTDATE": "2025-08-08T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "97:異常癖"
     },
     {
       "LICENSE_ID": "98",
       "NAME": "レイレイ",
       "JOB": "商人",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 22,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1566,13 +1680,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-08T15:00:00.000Z",
       "UPTDATE": "2025-08-08T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "98:レイレイ"
     },
     {
       "LICENSE_ID": "99",
       "NAME": "ふろんとれもん",
       "JOB": "犬",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 20,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1582,13 +1697,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-08T15:00:00.000Z",
       "UPTDATE": "2025-08-08T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "99:ふろんとれもん"
     },
     {
       "LICENSE_ID": "100",
       "NAME": "カーテンコール",
       "JOB": "傭兵",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 20,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1598,13 +1714,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-08T15:00:00.000Z",
       "UPTDATE": "2025-08-08T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "100:カーテンコール"
     },
     {
       "LICENSE_ID": "101",
       "NAME": "転がる犬",
       "JOB": "犬",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 20,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1614,13 +1731,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-08T15:00:00.000Z",
       "UPTDATE": "2025-08-08T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "101:転がる犬"
     },
     {
       "LICENSE_ID": "102",
       "NAME": "PuttyRR",
       "JOB": "魔法少女",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 20,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1630,13 +1748,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-08T15:00:00.000Z",
       "UPTDATE": "2025-08-08T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "102:PuttyRR"
     },
     {
       "LICENSE_ID": "103",
       "NAME": "トウヤン",
       "JOB": "シーフ",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 20,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1646,13 +1765,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-08T15:00:00.000Z",
       "UPTDATE": "2025-08-08T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "103:トウヤン"
     },
     {
       "LICENSE_ID": "104",
       "NAME": "NIA 2A",
       "JOB": "異国の剣豪",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 20,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1662,13 +1782,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-08T15:00:00.000Z",
       "UPTDATE": "2025-08-08T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "104:NIA 2A"
     },
     {
       "LICENSE_ID": "105",
       "NAME": "鈴恵",
       "JOB": "メイド騎士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 20,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1678,13 +1799,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-08T15:00:00.000Z",
       "UPTDATE": "2025-08-08T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "105:鈴恵"
     },
     {
       "LICENSE_ID": "106",
       "NAME": "はやトトロ",
       "JOB": "人形使い",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 20,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1694,13 +1816,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-08T15:00:00.000Z",
       "UPTDATE": "2025-08-08T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "106:はやトトロ"
     },
     {
       "LICENSE_ID": "107",
       "NAME": "ザクロス",
       "JOB": "ランサー",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1710,13 +1833,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-08T15:00:00.000Z",
       "UPTDATE": "2025-08-08T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "107:ザクロス"
     },
     {
       "LICENSE_ID": "108",
       "NAME": "Ui",
       "JOB": "ガラス職人",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1726,13 +1850,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-08T15:00:00.000Z",
       "UPTDATE": "2025-08-08T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "108:Ui"
     },
     {
       "LICENSE_ID": "109",
       "NAME": "ねこしゃん",
       "JOB": "肉屋",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1742,13 +1867,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-08T15:00:00.000Z",
       "UPTDATE": "2025-08-08T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "109:ねこしゃん"
     },
     {
       "LICENSE_ID": "110",
       "NAME": "フラン",
       "JOB": "魔剣士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1758,13 +1884,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-08T15:00:00.000Z",
       "UPTDATE": "2025-08-08T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "110:フラン"
     },
     {
       "LICENSE_ID": "111",
       "NAME": "カーボン_Carbon",
       "JOB": "炭原もうふ店",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1774,13 +1901,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-08T15:00:00.000Z",
       "UPTDATE": "2025-08-08T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "111:カーボン_Carbon"
     },
     {
       "LICENSE_ID": "112",
       "NAME": "シロツメクサ",
       "JOB": "りょうし",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 42,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1790,13 +1918,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-08T15:00:00.000Z",
       "UPTDATE": "2025-08-08T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "112:シロツメクサ"
     },
     {
       "LICENSE_ID": "113",
       "NAME": "ちはる",
       "JOB": "魔法使い",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1806,13 +1935,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-09T15:00:00.000Z",
       "UPTDATE": "2025-08-09T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "113:ちはる"
     },
     {
       "LICENSE_ID": "114",
       "NAME": "ブロウ",
       "JOB": "格闘士",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1822,13 +1952,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-09T15:00:00.000Z",
       "UPTDATE": "2025-08-09T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "114:ブロウ"
     },
     {
       "LICENSE_ID": "115",
       "NAME": "シェル",
       "JOB": "船長",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 35,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1838,13 +1969,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-15T15:00:00.000Z",
       "UPTDATE": "2025-08-15T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "115:シェル"
     },
     {
       "LICENSE_ID": "116",
       "NAME": "エビ揉むな",
       "JOB": "活動家",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 25,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1854,13 +1986,31 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-15T15:00:00.000Z",
       "UPTDATE": "2025-08-15T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "116:エビ揉むな"
     },
     {
       "LICENSE_ID": "117",
+      "NAME": "ゆーやん",
+      "JOB": "ナイト",
+      "RANK": "F",
+      "POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": null,
+      "UPTDATE": null,
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "117:ゆーやん"
+    },
+    {
+      "LICENSE_ID": "118",
       "NAME": "haniyama",
       "JOB": "魔法使い",
-      "RANK": null,
+      "RANK": "F",
       "POINT": 35,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1870,29 +2020,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-15T15:00:00.000Z",
       "UPTDATE": "2025-08-15T15:00:00.000Z",
-      "DELFLG": false
-    },
-    {
-      "LICENSE_ID": "118",
-      "NAME": "furisuk",
-      "JOB": "枝拾い",
-      "RANK": null,
-      "POINT": 0,
-      "LINK": "",
-      "PICTURE_LINK": "",
-      "UNITY_LINK": "",
-      "MEMO": "",
-      "WORLD_FLG": false,
-      "SEND_FLG": false,
-      "INSDATE": "2025-08-15T15:00:00.000Z",
-      "UPTDATE": "2025-08-15T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "118:haniyama"
     },
     {
       "LICENSE_ID": "119",
-      "NAME": "げんじ Lv20",
-      "JOB": "戦闘メイド",
-      "RANK": null,
+      "NAME": "furisuk",
+      "JOB": "枝拾い",
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1902,13 +2037,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-15T15:00:00.000Z",
       "UPTDATE": "2025-08-15T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "119:furisuk"
     },
     {
       "LICENSE_ID": "120",
-      "NAME": "アマノヨミザクラ",
-      "JOB": "サキュバス",
-      "RANK": null,
+      "NAME": "げんじ Lv20",
+      "JOB": "戦闘メイド",
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1918,13 +2054,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-15T15:00:00.000Z",
       "UPTDATE": "2025-08-15T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "120:げんじ Lv20"
     },
     {
       "LICENSE_ID": "121",
-      "NAME": "ダイル",
-      "JOB": "冒険者",
-      "RANK": null,
+      "NAME": "アマノヨミザクラ",
+      "JOB": "サキュバス",
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1934,13 +2071,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-15T15:00:00.000Z",
       "UPTDATE": "2025-08-15T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "121:アマノヨミザクラ"
     },
     {
       "LICENSE_ID": "122",
-      "NAME": "八柳",
-      "JOB": "物書き",
-      "RANK": null,
+      "NAME": "ダイル",
+      "JOB": "冒険者",
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1950,13 +2088,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-15T15:00:00.000Z",
       "UPTDATE": "2025-08-15T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "122:ダイル"
     },
     {
       "LICENSE_ID": "123",
-      "NAME": "かむい",
-      "JOB": "マイペース",
-      "RANK": null,
+      "NAME": "八柳",
+      "JOB": "物書き",
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1966,13 +2105,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-15T15:00:00.000Z",
       "UPTDATE": "2025-08-15T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "123:八柳"
     },
     {
       "LICENSE_ID": "124",
-      "NAME": "Sakutuki",
-      "JOB": "剣扇舞家",
-      "RANK": null,
+      "NAME": "こなちゃ。",
+      "JOB": "酒飲み",
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1980,15 +2120,16 @@
       "MEMO": "",
       "WORLD_FLG": false,
       "SEND_FLG": false,
-      "INSDATE": "2025-08-15T15:00:00.000Z",
-      "UPTDATE": "2025-08-15T15:00:00.000Z",
-      "DELFLG": false
+      "INSDATE": null,
+      "UPTDATE": null,
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "124:こなちゃ。"
     },
     {
       "LICENSE_ID": "125",
-      "NAME": "Kotoko",
-      "JOB": "剣扇舞家",
-      "RANK": null,
+      "NAME": "いずみ",
+      "JOB": "ファーマー",
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -1996,15 +2137,16 @@
       "MEMO": "",
       "WORLD_FLG": false,
       "SEND_FLG": false,
-      "INSDATE": "2025-08-15T15:00:00.000Z",
-      "UPTDATE": "2025-08-15T15:00:00.000Z",
-      "DELFLG": false
+      "INSDATE": null,
+      "UPTDATE": null,
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "125:いずみ"
     },
     {
       "LICENSE_ID": "126",
-      "NAME": "test",
-      "JOB": "dadaa",
-      "RANK": null,
+      "NAME": "かむい",
+      "JOB": "マイペース",
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -2014,45 +2156,14 @@
       "SEND_FLG": false,
       "INSDATE": "2025-08-15T15:00:00.000Z",
       "UPTDATE": "2025-08-15T15:00:00.000Z",
-      "DELFLG": false
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "126:かむい"
     },
     {
       "LICENSE_ID": "127",
-      "NAME": "TestName",
-      "JOB": "TestJob",
-      "RANK": null,
-      "POINT": 0,
-      "LINK": "TestLink",
-      "PICTURE_LINK": "raisensugazou",
-      "UNITY_LINK": "unitypackage",
-      "MEMO": "memoTest",
-      "WORLD_FLG": false,
-      "SEND_FLG": false,
-      "INSDATE": "2025-08-31T08:02:41.016Z",
-      "UPTDATE": "2025-08-31T08:02:41.016Z",
-      "DELFLG": false
-    },
-    {
-      "LICENSE_ID": "128",
-      "NAME": "TestName1111",
-      "JOB": "TestJob1111",
-      "RANK": null,
-      "POINT": 231321,
-      "LINK": "1111",
-      "PICTURE_LINK": "raisensugazou1111",
-      "UNITY_LINK": "unitypackage1111",
-      "MEMO": "memoTest1111",
-      "WORLD_FLG": false,
-      "SEND_FLG": false,
-      "INSDATE": "2025-08-31T08:07:58.986Z",
-      "UPTDATE": "2025-08-31T08:31:43.312Z",
-      "DELFLG": false
-    },
-    {
-      "LICENSE_ID": "129",
-      "NAME": "らい新規",
-      "JOB": "錬金術師新規",
-      "RANK": null,
+      "NAME": "Sakutuki",
+      "JOB": "剣扇舞家",
+      "RANK": "F",
       "POINT": 0,
       "LINK": "",
       "PICTURE_LINK": "",
@@ -2060,9 +2171,180 @@
       "MEMO": "",
       "WORLD_FLG": false,
       "SEND_FLG": false,
-      "INSDATE": "2025-09-02T13:24:11.384Z",
-      "UPTDATE": "2025-09-02T13:24:11.384Z",
-      "DELFLG": false
+      "INSDATE": "2025-08-15T15:00:00.000Z",
+      "UPTDATE": "2025-08-15T15:00:00.000Z",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "127:Sakutuki"
+    },
+    {
+      "LICENSE_ID": "128",
+      "NAME": "Kotoko",
+      "JOB": "剣扇舞家",
+      "RANK": "F",
+      "POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": "2025-08-15T15:00:00.000Z",
+      "UPTDATE": "2025-08-15T15:00:00.000Z",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "128:Kotoko"
+    },
+    {
+      "LICENSE_ID": "129",
+      "NAME": "ごきぶり",
+      "JOB": "へんたいしょしんしゃ",
+      "RANK": "F",
+      "POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": null,
+      "UPTDATE": null,
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "129:ごきぶり"
+    },
+    {
+      "LICENSE_ID": "130",
+      "NAME": "Gulu",
+      "JOB": "ラッコ",
+      "RANK": "F",
+      "POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": "2025-09-13T09:27:55.180Z",
+      "UPTDATE": "2025-09-13T09:27:55.180Z",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "130:Gulu"
+    },
+    {
+      "LICENSE_ID": "131",
+      "NAME": "touki",
+      "JOB": "なし",
+      "RANK": "F",
+      "POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": "2025-09-13T09:29:43.385Z",
+      "UPTDATE": "2025-09-13T09:29:43.385Z",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "131:touki"
+    },
+    {
+      "LICENSE_ID": "132",
+      "NAME": "れもん",
+      "JOB": "柑橘類",
+      "RANK": "F",
+      "POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": "2025-09-13T09:30:24.135Z",
+      "UPTDATE": "2025-09-13T09:30:24.135Z",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "132:れもん"
+    },
+    {
+      "LICENSE_ID": "133",
+      "NAME": "かにち",
+      "JOB": "侍",
+      "RANK": "F",
+      "POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": "2025-09-13T09:30:43.291Z",
+      "UPTDATE": "2025-09-13T09:30:43.291Z",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "133:かにち"
+    },
+    {
+      "LICENSE_ID": "134",
+      "NAME": "レイヤ",
+      "JOB": "剣士",
+      "RANK": "F",
+      "POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": "2025-09-13T09:31:00.844Z",
+      "UPTDATE": "2025-09-13T09:31:00.844Z",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "134:レイヤ"
+    },
+    {
+      "LICENSE_ID": "135",
+      "NAME": "あも",
+      "JOB": "動物使い",
+      "RANK": "F",
+      "POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": "2025-09-13T09:31:15.751Z",
+      "UPTDATE": "2025-09-13T09:31:15.751Z",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "135:あも"
+    },
+    {
+      "LICENSE_ID": "136",
+      "NAME": "きうい",
+      "JOB": "学生",
+      "RANK": "F",
+      "POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": "2025-09-13T09:31:27.386Z",
+      "UPTDATE": "2025-09-13T09:31:27.386Z",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "136:きうい"
+    },
+    {
+      "LICENSE_ID": "137",
+      "NAME": "かんぜ",
+      "JOB": "パン屋さん",
+      "RANK": "F",
+      "POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": "2025-09-13T09:31:38.813Z",
+      "UPTDATE": "2025-09-13T09:31:38.813Z",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "137:かんぜ"
     }
   ]
 }
