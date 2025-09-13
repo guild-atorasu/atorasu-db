@@ -1,23 +1,6 @@
 {
   "adventurers": [
     {
-      "LICENSE_ID": null,
-      "NAME": "NAME",
-      "JOB": "JOB",
-      "RANK": "RANK",
-      "POINT": null,
-      "LINK": "LINK",
-      "PICTURE_LINK": "PICTURE_LINK",
-      "UNITY_LINK": "UNITY_LINK",
-      "MEMO": "MEMO",
-      "WORLD_FLG": false,
-      "SEND_FLG": false,
-      "INSDATE": "INSDATE",
-      "UPTDATE": "UPTDATE",
-      "DELFLG": false,
-      "IDENTIFIER_TEXT": "IDENTIFIER_TEXT"
-    },
-    {
       "LICENSE_ID": 1,
       "NAME": "らい",
       "JOB": "錬金術師",
