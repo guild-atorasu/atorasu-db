@@ -2345,6 +2345,23 @@
       "UPTDATE": "2025-09-18T13:57:58.969Z",
       "DELFLG": false,
       "IDENTIFIER_TEXT": "138:JuJu"
+    },
+    {
+      "LICENSE_ID": "139",
+      "NAME": "たる",
+      "JOB": "ファイター",
+      "RANK": "F",
+      "POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": "2025-09-18T15:01:46.352Z",
+      "UPTDATE": "2025-09-18T15:01:46.352Z",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "139:たる"
     }
   ]
 }
