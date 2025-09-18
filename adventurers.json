@@ -2,20 +2,20 @@
   "adventurers": [
     {
       "LICENSE_ID": "1",
-      "NAME": "らい",
+      "NAME": "らいtesttesttest",
       "JOB": "錬金術師",
       "RANK": "F",
       "POINT": 0,
       "LINK": "https://x.com/rai_us4gi",
-      "PICTURE_LINK": "",
+      "PICTURE_LINK": "https://drive.google.com/file/d/1xIcCf1R412bCvGmY1FVBPmhMB9nIW7KR/view?usp=drive_link",
       "UNITY_LINK": "",
       "MEMO": "",
       "WORLD_FLG": false,
       "SEND_FLG": false,
       "INSDATE": "2025-06-26T15:00:00.000Z",
-      "UPTDATE": "2025-09-10T06:44:39.242Z",
+      "UPTDATE": "2025-09-17T12:40:30.728Z",
       "DELFLG": false,
-      "IDENTIFIER_TEXT": "1:らい"
+      "IDENTIFIER_TEXT": "1:らいtesttesttest"
     },
     {
       "LICENSE_ID": "2",
@@ -2328,6 +2328,23 @@
       "UPTDATE": "2025-09-13T09:31:38.813Z",
       "DELFLG": false,
       "IDENTIFIER_TEXT": "137:かんぜ"
+    },
+    {
+      "LICENSE_ID": "138",
+      "NAME": "JuJu",
+      "JOB": "スライム",
+      "RANK": "F",
+      "POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": "2025-09-18T13:57:58.969Z",
+      "UPTDATE": "2025-09-18T13:57:58.969Z",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "138:JuJu"
     }
   ]
 }
