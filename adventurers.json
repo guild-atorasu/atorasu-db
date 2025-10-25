@@ -6425,6 +6425,24 @@
       "UPTDATE": "2025/10/25 23:10:33",
       "DELFLG": false,
       "IDENTIFIER_TEXT": "357:しゃしゃ"
+    },
+    {
+      "LICENSE_ID": "358",
+      "NAME": "sinsan090",
+      "JOB": "吸血鬼",
+      "RANK": "F",
+      "POINT": 0,
+      "TOTAL_POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": "2025/10/26 2:10:48",
+      "UPTDATE": "2025/10/26 2:10:48",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "358:sinsan090"
     }
   ]
 }
