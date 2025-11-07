@@ -7145,6 +7145,42 @@
       "UPTDATE": "2025/11/7 23:50:36",
       "DELFLG": false,
       "IDENTIFIER_TEXT": "397:もやし"
+    },
+    {
+      "LICENSE_ID": "398",
+      "NAME": "Natuzin",
+      "JOB": "学生",
+      "RANK": "F",
+      "POINT": 0,
+      "TOTAL_POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": "2025/11/8 0:11:30",
+      "UPTDATE": "2025/11/8 0:11:30",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "398:Natuzin"
+    },
+    {
+      "LICENSE_ID": "399",
+      "NAME": "Prestonia",
+      "JOB": "こども",
+      "RANK": "F",
+      "POINT": 0,
+      "TOTAL_POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": "2025/11/8 0:25:35",
+      "UPTDATE": "2025/11/8 0:25:35",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "399:Prestonia"
     }
   ]
 }
