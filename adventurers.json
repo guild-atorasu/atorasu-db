@@ -3677,8 +3677,8 @@
       "NAME": "SQGoukin",
       "JOB": "ガリ",
       "RANK": "F",
-      "POINT": 43,
-      "TOTAL_POINT": 43,
+      "POINT": 51,
+      "TOTAL_POINT": 48,
       "LINK": "https://x.com/SQGoukin",
       "PICTURE_LINK": "",
       "UNITY_LINK": "",
@@ -3686,7 +3686,7 @@
       "WORLD_FLG": false,
       "SEND_FLG": false,
       "INSDATE": "2025/10/3 22:27:10",
-      "UPTDATE": "2025/10/26 14:17:55",
+      "UPTDATE": "2025/11/10 23:02:59",
       "DELFLG": false,
       "IDENTIFIER_TEXT": "205:SQGoukin"
     },
@@ -5414,7 +5414,7 @@
       "WORLD_FLG": false,
       "SEND_FLG": false,
       "INSDATE": "2025/10/17 23:15:42",
-      "UPTDATE": "2025/10/17 23:15:42",
+      "UPTDATE": "2025/11/10 22:55:27",
       "DELFLG": false,
       "IDENTIFIER_TEXT": "301:白蛇ニュイ"
     },
