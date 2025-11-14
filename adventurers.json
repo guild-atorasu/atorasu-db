@@ -6341,8 +6341,8 @@
       "NAME": "きゅあらんす",
       "JOB": "炭鉱夫",
       "RANK": "F",
-      "POINT": 28,
-      "TOTAL_POINT": 28,
+      "POINT": 63,
+      "TOTAL_POINT": 63,
       "LINK": "",
       "PICTURE_LINK": "",
       "UNITY_LINK": "",
@@ -6350,7 +6350,7 @@
       "WORLD_FLG": false,
       "SEND_FLG": false,
       "INSDATE": "2025/10/25 22:31:28",
-      "UPTDATE": "2025/11/13 12:49:33",
+      "UPTDATE": "2025/11/15 3:40:40",
       "DELFLG": false,
       "IDENTIFIER_TEXT": "353:きゅあらんす"
     },
@@ -6710,7 +6710,7 @@
       "WORLD_FLG": false,
       "SEND_FLG": false,
       "INSDATE": "2025/11/7 22:38:48",
-      "UPTDATE": "2025/11/13 13:11:59",
+      "UPTDATE": "2025/11/15 3:50:56",
       "DELFLG": false,
       "IDENTIFIER_TEXT": "373:群青海月"
     },
@@ -6728,7 +6728,7 @@
       "WORLD_FLG": false,
       "SEND_FLG": false,
       "INSDATE": "2025/11/7 22:42:58",
-      "UPTDATE": "2025/11/13 13:11:58",
+      "UPTDATE": "2025/11/15 3:50:55",
       "DELFLG": false,
       "IDENTIFIER_TEXT": "374:ターキー"
     },
