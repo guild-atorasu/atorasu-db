@@ -8405,6 +8405,24 @@
       "UPTDATE": "2025/11/21 23:49:19",
       "DELFLG": false,
       "IDENTIFIER_TEXT": "467:兎肉火焼"
+    },
+    {
+      "LICENSE_ID": "468",
+      "NAME": "たんてぃー",
+      "JOB": "やんでも屋さん",
+      "RANK": "F",
+      "POINT": 0,
+      "TOTAL_POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": "2025/11/21 23:52:09",
+      "UPTDATE": "2025/11/21 23:52:09",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "468:たんてぃー"
     }
   ]
 }
