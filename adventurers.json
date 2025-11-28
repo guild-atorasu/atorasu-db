@@ -5007,7 +5007,7 @@
     {
       "LICENSE_ID": "279",
       "NAME": "みょんたま",
-      "JOB": "魔法使い",
+      "JOB": "猫魔導師",
       "RANK": "E",
       "POINT": 137,
       "TOTAL_POINT": 137,
@@ -5018,7 +5018,7 @@
       "WORLD_FLG": false,
       "SEND_FLG": false,
       "INSDATE": "2025/10/17 22:24:21",
-      "UPTDATE": "2025/11/17 20:55:33",
+      "UPTDATE": "2025/11/28 20:40:13",
       "DELFLG": false,
       "IDENTIFIER_TEXT": "279:みょんたま"
     },
@@ -5979,7 +5979,7 @@
     {
       "LICENSE_ID": "333",
       "NAME": "つゆだこ",
-      "JOB": "仔犬",
+      "JOB": "こいぬ",
       "RANK": "F",
       "POINT": 57,
       "TOTAL_POINT": 57,
@@ -5990,7 +5990,7 @@
       "WORLD_FLG": false,
       "SEND_FLG": false,
       "INSDATE": "2025/10/25 21:38:41",
-      "UPTDATE": "2025/11/28 13:57:26",
+      "UPTDATE": "2025/11/28 20:39:27",
       "DELFLG": false,
       "IDENTIFIER_TEXT": "333:つゆだこ"
     },
