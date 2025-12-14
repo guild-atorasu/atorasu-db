@@ -9610,15 +9610,15 @@
       "INSDATE": "2025/12/13 21:06:20",
       "UPTDATE": "2025/12/13 21:06:20",
       "DELFLG": false,
-      "IDENTIFIER_TEXT": "0534:シャルハイン"
+      "IDENTIFIER_TEXT": "534:シャルハイン"
     },
     {
       "LICENSE_ID": "535",
       "NAME": "JUNCHAN",
       "JOB": "クリスマス",
       "RANK": "F",
-      "POINT": 0,
-      "TOTAL_POINT": 0,
+      "POINT": 5,
+      "TOTAL_POINT": 5,
       "LINK": "",
       "PICTURE_LINK": "",
       "UNITY_LINK": "",
@@ -9626,17 +9626,17 @@
       "WORLD_FLG": false,
       "SEND_FLG": false,
       "INSDATE": "2025/12/13 21:10:49",
-      "UPTDATE": "2025/12/13 21:10:49",
+      "UPTDATE": "2025/12/14 22:58:59",
       "DELFLG": false,
-      "IDENTIFIER_TEXT": "0535:JUNCHAN"
+      "IDENTIFIER_TEXT": "535:JUNCHAN"
     },
     {
       "LICENSE_ID": "536",
       "NAME": "pepperpasta",
       "JOB": "魔王城の受付",
       "RANK": "F",
-      "POINT": 0,
-      "TOTAL_POINT": 0,
+      "POINT": 5,
+      "TOTAL_POINT": 5,
       "LINK": "",
       "PICTURE_LINK": "",
       "UNITY_LINK": "",
@@ -9644,9 +9644,9 @@
       "WORLD_FLG": false,
       "SEND_FLG": false,
       "INSDATE": "2025/12/13 21:17:18",
-      "UPTDATE": "2025/12/13 21:17:18",
+      "UPTDATE": "2025/12/14 22:59:00",
       "DELFLG": false,
-      "IDENTIFIER_TEXT": "0536:pepperpasta"
+      "IDENTIFIER_TEXT": "536:pepperpasta"
     },
     {
       "LICENSE_ID": "537",
@@ -9664,7 +9664,7 @@
       "INSDATE": "2025/12/13 21:17:42",
       "UPTDATE": "2025/12/13 21:17:42",
       "DELFLG": false,
-      "IDENTIFIER_TEXT": "0537:アオカ＿ナミカ"
+      "IDENTIFIER_TEXT": "537:アオカ＿ナミカ"
     },
     {
       "LICENSE_ID": "538",
@@ -9682,7 +9682,7 @@
       "INSDATE": "2025/12/13 21:21:06",
       "UPTDATE": "2025/12/13 21:21:06",
       "DELFLG": false,
-      "IDENTIFIER_TEXT": "0538:ぽよぽよぽよ"
+      "IDENTIFIER_TEXT": "538:ぽよぽよぽよ"
     },
     {
       "LICENSE_ID": "539",
@@ -9700,7 +9700,7 @@
       "INSDATE": "2025/12/13 21:23:21",
       "UPTDATE": "2025/12/13 21:23:21",
       "DELFLG": false,
-      "IDENTIFIER_TEXT": "0539:Dpsoba"
+      "IDENTIFIER_TEXT": "539:Dpsoba"
     },
     {
       "LICENSE_ID": "540",
@@ -9718,7 +9718,7 @@
       "INSDATE": "2025/12/13 21:25:27",
       "UPTDATE": "2025/12/13 21:25:27",
       "DELFLG": false,
-      "IDENTIFIER_TEXT": "0540:よしのり"
+      "IDENTIFIER_TEXT": "540:よしのり"
     },
     {
       "LICENSE_ID": "541",
@@ -9736,7 +9736,7 @@
       "INSDATE": "2025/12/13 21:30:39",
       "UPTDATE": "2025/12/13 21:30:39",
       "DELFLG": false,
-      "IDENTIFIER_TEXT": "0541:おばけん"
+      "IDENTIFIER_TEXT": "541:おばけん"
     },
     {
       "LICENSE_ID": "542",
@@ -9754,7 +9754,7 @@
       "INSDATE": "2025/12/13 21:35:59",
       "UPTDATE": "2025/12/13 21:35:59",
       "DELFLG": false,
-      "IDENTIFIER_TEXT": "0542:柏木もち"
+      "IDENTIFIER_TEXT": "542:柏木もち"
     },
     {
       "LICENSE_ID": "543",
@@ -9772,15 +9772,15 @@
       "INSDATE": "2025/12/13 21:36:21",
       "UPTDATE": "2025/12/13 21:36:21",
       "DELFLG": false,
-      "IDENTIFIER_TEXT": "0543:コタル-ジャム"
+      "IDENTIFIER_TEXT": "543:コタル-ジャム"
     },
     {
       "LICENSE_ID": "544",
       "NAME": "あれぴ",
       "JOB": "郵便局員",
       "RANK": "F",
-      "POINT": 0,
-      "TOTAL_POINT": 0,
+      "POINT": 8,
+      "TOTAL_POINT": 8,
       "LINK": "",
       "PICTURE_LINK": "",
       "UNITY_LINK": "",
@@ -9788,9 +9788,9 @@
       "WORLD_FLG": false,
       "SEND_FLG": false,
       "INSDATE": "2025/12/13 21:46:34",
-      "UPTDATE": "2025/12/13 21:46:34",
+      "UPTDATE": "2025/12/14 23:01:23",
       "DELFLG": false,
-      "IDENTIFIER_TEXT": "0544:あれぴ"
+      "IDENTIFIER_TEXT": "544:あれぴ"
     },
     {
       "LICENSE_ID": "545",
@@ -9808,7 +9808,7 @@
       "INSDATE": "2025/12/13 21:52:54",
       "UPTDATE": "2025/12/13 21:52:54",
       "DELFLG": false,
-      "IDENTIFIER_TEXT": "0545:エクレア"
+      "IDENTIFIER_TEXT": "545:エクレア"
     },
     {
       "LICENSE_ID": "546",
@@ -9826,7 +9826,7 @@
       "INSDATE": "2025/12/13 22:10:09",
       "UPTDATE": "2025/12/13 22:10:09",
       "DELFLG": false,
-      "IDENTIFIER_TEXT": "0546:じゃすみん"
+      "IDENTIFIER_TEXT": "546:じゃすみん"
     },
     {
       "LICENSE_ID": "547",
@@ -9844,7 +9844,7 @@
       "INSDATE": "2025/12/13 22:16:56",
       "UPTDATE": "2025/12/13 22:16:56",
       "DELFLG": false,
-      "IDENTIFIER_TEXT": "0547:マカ"
+      "IDENTIFIER_TEXT": "547:マカ"
     },
     {
       "LICENSE_ID": "548",
@@ -9862,7 +9862,7 @@
       "INSDATE": "2025/12/13 22:49:06",
       "UPTDATE": "2025/12/13 22:49:06",
       "DELFLG": false,
-      "IDENTIFIER_TEXT": "0548:りでぃあ"
+      "IDENTIFIER_TEXT": "548:りでぃあ"
     },
     {
       "LICENSE_ID": "549",
@@ -9880,7 +9880,7 @@
       "INSDATE": "2025/12/13 23:22:19",
       "UPTDATE": "2025/12/13 23:22:19",
       "DELFLG": false,
-      "IDENTIFIER_TEXT": "0549:ややいえ"
+      "IDENTIFIER_TEXT": "549:ややいえ"
     }
   ]
 }
