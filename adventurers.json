@@ -10151,6 +10151,24 @@
       "UPTDATE": "2025/12/19 23:54:47",
       "DELFLG": false,
       "IDENTIFIER_TEXT": "564:登浪登浪"
+    },
+    {
+      "LICENSE_ID": "565",
+      "NAME": "タスク",
+      "JOB": "フリーランス",
+      "RANK": "F",
+      "POINT": 0,
+      "TOTAL_POINT": 0,
+      "LINK": "",
+      "PICTURE_LINK": "",
+      "UNITY_LINK": "",
+      "MEMO": "",
+      "WORLD_FLG": false,
+      "SEND_FLG": false,
+      "INSDATE": "2025/12/20 2:12:05",
+      "UPTDATE": "2025/12/20 2:12:05",
+      "DELFLG": false,
+      "IDENTIFIER_TEXT": "565:タスク"
     }
   ]
 }
